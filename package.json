@@ -10,7 +10,8 @@
   "dependencies": {
     "core-js": "^3.6.4",
     "vee-validate": "next",
-    "vue": "^3.5.13"
+    "vue": "^3.5.13",
+    "yup": "^1.7.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.26.5",
